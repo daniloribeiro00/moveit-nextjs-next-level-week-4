@@ -97,10 +97,12 @@
 
 .challengeActive footer button.challengeFailedButton {
     background-color: var(--red);
+    outline: none;
 }
 
 .challengeActive footer button.challengeSucceededButton {
     background-color: var(--green);
+    outline: none;
 }
 
 .challengeActive footer button:hover {
