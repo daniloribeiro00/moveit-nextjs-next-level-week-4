@@ -1,4 +1,4 @@
-<img style="max-width: 300px; padding: 20px 0; margin: 0px auto" src="./public/logo-full.svg">
+<img style="text-align: center; max-width: 1200px; padding: 20px 0; margin: 0px auto; " src="./public/logo-full.svg">
 
 <h1 style="font: 50px">Move.it: Next Level Week 4 </h1>
 
