@@ -27,11 +27,7 @@
 
 <h1 style="font: 50px">Preview</h1>
 
-<img style="max-width: 400px;" src="./public/images/proffy-preview-web-home.png">
-<img style="max-width: 400px;" src="./public/images/proffy-preview-web-study.png">
-<br>
-<img style="max-width: 200px;" src="./public/images/proffy-preview-mobile-home.png">
-<br>
+<img style="max-width: 400px;" src="./public/preview.png">
 
 <h1 style="font: 50px">Licença / License</h1>
 
