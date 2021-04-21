@@ -10,7 +10,7 @@
 
 <p>NLW (Next Level Week) #4 project, by RocketSeat.</p>
 
-<p>Proffy is platform to encourage people who pass a lot a hours studying online to use the Pomodoro technique, which consists in study periods of 25min with intervals to exercise between these periods.</p>
+<p>Move.it is a platform to encourage people who pass a lot a hours studying online to use the Pomodoro technique, which consists in study periods of 25min with intervals to exercise between these periods.</p>
 
 <br>
 
