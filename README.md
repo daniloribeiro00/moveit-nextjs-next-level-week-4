@@ -4,7 +4,7 @@
 
 <p>Projeto da 4ª Edição da NLW (Next Level Week), da RocketSeat.</p>
 
-<p>Move.it é uma plataforma de para incentivar quem estuda várias horas online a utilizar o técnica Pomodoro, consistente em períodos de estudo de 25min em 25min com intervalos para exercícios entre esses períodos.
+<p>Move.it é uma plataforma de para incentivar quem estuda várias horas online a utilizar o técnica Pomodoro, consistente em períodos de estudo de 25min em 25min com intervalos para exercícios entre esses períodos.</p>
 
 <hr>
 
